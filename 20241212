@@ -1,0 +1,38 @@
+На третьем уроке мы прошли переменные и типы данных например
+int- целое число (5,12,123)
+float- число с плавающей запятой то есть дробное число (3.14;0.5)
+str - строка , текстовая последовательность (привет)
+bool - логический тип данных ( правда или ложь)
+
+ lesson 3
+# int=10,3,105.....
+# float=10.5,5.123....
+# str= ('text')
+# bool= true,false
+
+# c=float(input('enter the celcium:'))
+# f=c*34+43
+# d=int(f)
+# print(' цельсиях',c, 'в форейнгейтах',f,'целое',d)
+# print(f'Celcium: {c}. In foreigeits :{f}. f in integer: {int(f)}.')
+
+# num1=5
+# print(num1)
+# num2=float(num1)
+# print(num2)
+
+Потом на дом 
+# num2=float(5)
+# print(num2)
+# a=30
+# b='25som'
+# c='10som'
+# print(f'tea stoit {a}. bread stoit {b}. apple stoit {c}')
+# many=input('здраствуйте, что вы хотите?')
+# print(many)
+# cost=input('итог:65som')
+# print(cost)
+# me=input('у меня 100som')
+# print(me)
+# seller=input('sdacha 35 som')
+# print(seller)
