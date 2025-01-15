@@ -1,0 +1,24 @@
+Первый урок был введением и мы прост устонавливали пайтон(пайчарм)
+На втором уроке мы уже насторили его и начали уже писать код.
+
+# print("2*2=",2*2)
+# print("3*3=",3*3)
+# print("Tom")
+
+# name=input("What is your name?")
+# print(name)
+# age=input("How old are name?")
+# print(age)
+# city=input("Where are you from?")
+# print(city)
+# print("His name is",name,"He is",age,"He is from",city,)
+
+# name='Tom'
+# name="Jack"
+# print(name)
+
+# print('Hello,Sam!')
+
+# name='Sam'
+# Name='Tom'
+# print(name)
