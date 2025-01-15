@@ -1,0 +1,19 @@
+На втором уроке вычесляли с помощью "-";"+";"*';"/";
+
+# r=10
+# pi=3.14
+# a=2*pi*r*r
+# print(a)
+
+# name=input("name")
+# surname=input("surname")
+# fullname=(name+""+surname)
+# print("Hello ",fullname)
+
+# c=40
+# f=(9/5)*c+32
+# print(f)
+
+# c=int(input('enter the celcium:'))
+# f=c*34+43
+# print(f)
