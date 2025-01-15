@@ -1,0 +1,33 @@
+На четвертом уроке было повторение переменные типы данных присваивание итд
+# num1=str(5.6)
+# num2=int(7.6)
+# num3=num1*num2
+# num4=num1+num2
+# print(num3)
+
+# height=("180")
+# print(height)
+
+# name='Mary'
+# age=20
+# age=float
+# age=str(age)
+# age=20
+# print(type(age))
+
+задание
+# prices = {
+#     "гипсофила": 100,
+#     "гортензия": 120,
+#     "роза": 150,
+# } первый вариант
+gip_price = 100
+gort_prise = 120
+roza_prise = 150
+print("Здравствуйте! Вы можете собрать букет из этих цветов: гипсофила, гортензия, роза.")
+gip = int(input("Сколько гипсофил? "))
+gor = int(input("Сколько гортензий? "))
+roza = int(input("Сколько роз? "))
+# price = (gip * prices["гипсофила"]) + (gor * prices["гортензия"]) + (roza * prices["роза"]) первый вариант
+price2 = gip * gip_price + gor * gort_prise + roza * roza_prise
+print(f"Итоговая сумма: {price2} som.")
